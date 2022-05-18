@@ -10,7 +10,6 @@ public class House {
     int height;
     int width;
 
-
     public String toString() {
         return "City: " + getCity() + ", room count: "+getRoomCount()
                 + ", height: "+getHeight() + ", width: "+getWidth()
